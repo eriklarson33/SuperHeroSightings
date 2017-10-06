@@ -1,0 +1,43 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 20, 2017, 1:40:34 AM
+    Author     : eriklarson-laptop
+*/
+
+/* --------------------------------------
+   Navbar
+   -------------------------------------- */
+
+.navbar-brand {
+    padding: 13px 15px;
+}
+
+#navbarContainer {
+    color: #eee;
+}
+
+body {
+    background-color: darkblue;
+}
+
+h3 {
+    font-weight: bold;
+    color: #000000;
+}
+
+h4 {
+    font-weight: bold;
+    color: #000000;
+}
+
+div.carousel-caption {
+    margin: 30px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60); /* For IE8 and earlier */
+}
